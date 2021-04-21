@@ -1,0 +1,5 @@
+name: EnchantsIncreased
+version: ${project.version}
+main: me.swipez.enchantsincreased.EnchantsIncreased
+api-version: 1.16
+authors: [ notnotnotswipez ]
